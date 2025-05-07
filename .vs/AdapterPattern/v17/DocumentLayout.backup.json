@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\pc\\downloads\\vstudio\\adapterpattern\\adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\pc\\downloads\\vstudio\\adapterpattern\\adapterpattern\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\pc\\downloads\\vstudio\\adapterpattern\\adapterpattern\\icreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\icreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\pc\\downloads\\vstudio\\adapterpattern\\adapterpattern\\beastadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\beastadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\pc\\downloads\\vstudio\\adapterpattern\\adapterpattern\\ancientbeasts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BE7621-85EC-4798-8524-6443C1767E89}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\ancientbeasts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\World.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\World.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\World.cs",
+              "RelativeToolTip": "AdapterPattern\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:09:25.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeastAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\BeastAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\BeastAdapter.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\BeastAdapter.cs",
+              "RelativeToolTip": "AdapterPattern\\BeastAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:04:03.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AncientBeasts.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\AncientBeasts.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\AncientBeasts.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\AncientBeasts.cs",
+              "RelativeToolTip": "AdapterPattern\\AncientBeasts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:02:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICreature.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\ICreature.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\ICreature.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\ICreature.cs",
+              "RelativeToolTip": "AdapterPattern\\ICreature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:01:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AdapterPattern\\AdapterPattern\\Program.cs",
+              "RelativeToolTip": "AdapterPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T18:31:03.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
